@@ -3,7 +3,7 @@
 ## Features :
 - Validation of login form fields using prototypes
 - Authoration user with fake api
-- 
+
 ---
 ## Technologies :
 - React - Front-End JavaScript library
