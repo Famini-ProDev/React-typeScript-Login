@@ -3,12 +3,12 @@
 ## Features :
 - Validation of login form fields using prototypes
 - Authoration user with fake api
-
 ---
 ## Technologies :
 - React - Front-End JavaScript library
 - Typescript - JavaScript with syntax for types.
 - Managment states using Redux
+- Restful api using async/await : Promise
 
 ---
 ## Build yourself
